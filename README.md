@@ -1,4 +1,5 @@
 # A-sms_bomber
+# kurulum
 
 
 
