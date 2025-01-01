@@ -1,5 +1,6 @@
-# A-sms_bomber
-# güncel türkiye icin gecerli
+# sms_bomber
+
+# güncel sadece türkiye icin gecerli
 
 # kurulum
 
