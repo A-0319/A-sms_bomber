@@ -4,7 +4,7 @@
 
 # setup
 
- git clone https://github.com/A-0319/A-sms_bomber.git
+ git clone https://github.com/A-0319/sms_bomber.git
  
  cd sms_bomber
  
