@@ -1,8 +1,8 @@
 # sms_bomber
 
-# güncel sadece türkiye icin gecerli
+# current only for turkey
 
-# kurulum
+# setup
 
  git clone https://github.com/A-0319/A-sms_bomber.git
  
